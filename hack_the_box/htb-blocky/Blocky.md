@@ -2,7 +2,7 @@
 
 Empezamos con la resolución de la máquina, haciendo un **ping** para comprobar si tenemos conexión: 
 
-![Ping a la máquina](1.png)
+![Ping a la máquina](/images/1.png)
 
 Podemos ver que hay conexión, enviamos un paquete y recibimos un paquete. 
 
